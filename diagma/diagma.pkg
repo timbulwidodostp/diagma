@@ -1,4 +1,11 @@
-D 'DEA': Data envelopment analysis
+D 'diagma': DIagnostic Meta-Analysis using the split component synthesis method Use diagma With STATA 18
 D
-F dea.ado
-F dea.sthlp
+F admetan.ado
+F admetan.sthlp
+F admetan_hlp_run.ado
+F admetani.ado
+F admetani.sthlp
+F diagma.ado
+F diagma.sthlp
+F lfk.ado
+F lfk.sthlp
