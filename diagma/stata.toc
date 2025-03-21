@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p diagma DIagnostic Meta-Analysis using the split component synthesis method Use diagma With STATA 18
