@@ -1,5 +1,7 @@
 # diagma
-DIagnostic Meta-Analysis using the split component synthesis method Use diagma With STATA 18
+DIagnostic Meta-Analysis using the split component synthesis method Use diagma With STATA 19
+
+https://www.youtube.com/watch?v=l4VTZR7zKuI
 
 Olah Data Semarang
 
